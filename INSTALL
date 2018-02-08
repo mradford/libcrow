@@ -1,0 +1,5 @@
+
+To install libcrow,
+	./configure
+	make 
+	make install

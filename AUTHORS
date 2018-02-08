@@ -1,0 +1,7 @@
+Initial experimental implementation by Dave Benson.
+
+With help from a cast of thousands.
+
+We are looking at various libcrow improvements.  In particular,
+we are very concerned about portability.  Please email us your
+patches.
